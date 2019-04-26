@@ -2,7 +2,7 @@
 
 ![capa](https://i.imgur.com/BQcaNzU.jpg "")
 
-Projeto ainda em desenvolvimento...
+Projeto ainda em desenvolvimento... <3
 
 A ideia do projeto é explorar bibliotecas matemáticas em Python com a resolução de importantes cálculos:
 
@@ -12,7 +12,7 @@ A ideia do projeto é explorar bibliotecas matemáticas em Python com a resoluç
 - [Matplotlib](https://matplotlib.org/)
 - [Pandas](https://pandas.pydata.org/)
 
-Recomendados você obter o pacote científico completo de Python (incluindo o Jupyter-Notebook), acesse: [anaconda](https://www.anaconda.com/distribution/)
+Recomendados você obter o pacote científico completo de Python (incluindo o Jupyter-Notebook), acesse: [anaconda](https://www.anaconda.com/distribution/) e divirta-se experimentando.
 
 ## Conteúdo
 
