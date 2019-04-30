@@ -18,3 +18,4 @@ Recomendamos você obter o pacote científico completo de Python (incluindo o Ju
 
 01. [Teorema Fundamental do Cálculo com SymPy](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/teorema_calculo.ipynb)
 02. [Álgebra Linear com SymPy](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/linear_algebra.ipynb)
+03. [Estatística Descritiva com Pandas](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/estatistica_descritiva.ipynb)
