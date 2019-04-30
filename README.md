@@ -17,3 +17,4 @@ Recomendamos você obter o pacote científico completo de Python (incluindo o Ju
 ## Conteúdo
 
 01. [Teorema Fundamental do Cálculo com SymPy](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/python_matematica.ipynb)
+02. [Álgebra Linear com SymPy](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/algebra_linear.ipynb)
