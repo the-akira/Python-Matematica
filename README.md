@@ -28,6 +28,6 @@ Recomendamos você obter o pacote científico completo de Python (incluindo o Ju
 10. [Onda Dente de Serra](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/onda_dente_de_serra.ipynb)
 11. [Transformada de Fourier](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/transformada_de_fourier.ipynb)
 12. [Transformada Inversa de Fourier](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/transformada_inversa_de_fourier.ipynb)
-13. [Algoritmo Euclideano](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/euclid.ipynb)
+13. [Algoritmo Euclideano](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/euclides.ipynb)
 14. [Fórmula de Euler com SymPy](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/formula_euler.ipynb)
 15. [Números de Fibonacci](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/fibonacci_numeros.ipynb)
