@@ -1,6 +1,6 @@
 # Matemática (μάθημα) com Python
 
-![capa](https://i.imgur.com/BQcaNzU.jpg "")
+![capa](https://i.imgur.com/Z37kloc.jpg "")
 
 Projeto ainda em desenvolvimento... <3
 
