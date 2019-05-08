@@ -1,4 +1,4 @@
-# Matemática com Python
+# Matemática (μάθημα) com Python
 
 ![capa](https://i.imgur.com/BQcaNzU.jpg "")
 
