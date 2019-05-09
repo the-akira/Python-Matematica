@@ -36,4 +36,4 @@ Recomendamos você obter o pacote científico completo de Python (incluindo o Ju
 18. [Função de Unidade Linear Retificada](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/funcao_relu.ipynb)
 19. [Espiral de Arquimedes](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/espiral_arquimedes.ipynb)
 20. [Triângulo de Sierpinski](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/triangulo_sierpinski.ipynb)
-21. [Conjunto de Mandelbrot](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/mandelbrot.ipynb)
+21. [Conjunto de Mandelbrot](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/conjunto_mandelbrot.ipynb)
