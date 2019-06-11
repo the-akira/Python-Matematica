@@ -13,6 +13,7 @@
 - [SciPy2016 Material](https://www.sympy.org/scipy-2016-tutorial/)
 - [Taming Math and Physics using SymPy](https://minireference.com/static/tutorials/sympy_tutorial.pdf)
 - [SymPy Tutorial for Applied Differential Equations](http://www.cfm.brown.edu/people/dobrush/am33/SymPy/index.html)
+- [Python Algorithms for Interviews](https://www.youtube.com/watch?v=p65AHm9MX80)
 - [Math and Physics using SymPy](https://www.jonathangross.de/files/IPCS2017/sympy.pdf)
 - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 - [Basic Statistics in Pandas](https://medium.com/@kasiarachuta/basic-statistics-in-pandas-dataframe-594208074f85)
