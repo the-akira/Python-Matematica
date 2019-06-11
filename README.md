@@ -41,3 +41,4 @@ Recomendamos você obter o pacote científico completo de Python (incluindo o Ju
 19. [Espiral de Arquimedes](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/espiral_arquimedes.ipynb)
 20. [Triângulo de Sierpinski](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/triangulo_sierpinski.ipynb)
 21. [Conjunto de Mandelbrot](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/conjuntomandelbrot.ipynb)
+22. [Referências](https://github.com/the-akira/Python-Matematica/blob/master/referencias.md)
