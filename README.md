@@ -43,4 +43,5 @@ Recomendamos você obter o pacote científico completo de Python (incluindo o Ju
 21. [Conjunto de Mandelbrot](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/conjuntomandelbrot.ipynb)
 22. [Permutações e Combinações](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/perm_comb.ipynb)
 23. [Equações Diferenciais Ordinárias](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/equacoes_diferenciais.ipynb)
-24. [Referências](https://github.com/the-akira/Python-Matematica/blob/master/referencias.md)
+24. [Análise de Algoritmos](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/analise_algoritmos.ipynb)
+25. [Referências](https://github.com/the-akira/Python-Matematica/blob/master/referencias.md)
