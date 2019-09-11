@@ -27,3 +27,4 @@
 - [Euclid](http://sites.math.rutgers.edu/~greenfie/gs2004/euclid.html)
 - [Plotting](https://nagordon.github.io/mechpy/plotting.html)
 - [APMonitor](https://apmonitor.com/)
+- [Math for Programmers](https://amitness.com/2019/08/math-for-programmers/)
