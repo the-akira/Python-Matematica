@@ -46,4 +46,5 @@ Recomendamos você obter o pacote científico completo de Python (incluindo o Ju
 22. [Permutações e Combinações](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/perm_comb.ipynb)
 23. [Equações Diferenciais Ordinárias](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/equacoes_diferenciais.ipynb)
 24. [Análise de Algoritmos](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/analise_algoritmos.ipynb)
-25. [Referências](https://github.com/the-akira/Python-Matematica/blob/master/referencias.md)
+25. [Símbolos da Matemática Explicados com Python](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/simbolos_matematica.ipynb)
+26. [Referências](https://github.com/the-akira/Python-Matematica/blob/master/referencias.md)
