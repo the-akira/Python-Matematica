@@ -8,6 +8,8 @@ A matemática (dos termos gregos μάθημα, transliterado máthēma, 'ciênci
 
 ---------------------------------------
 
+## Projeto
+
 A ideia do projeto é explorar bibliotecas matemáticas em Python com a resolução de importantes cálculos:
 
 - [NumPy](http://www.numpy.org/)
