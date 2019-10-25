@@ -1,6 +1,6 @@
 # Matemática (μάθημα) com Python
 
-![capa](https://i.imgur.com/Z37kloc.jpg "capa")
+![capa](https://i.imgur.com/kVQvGDi.png "capa")
 
 Arte de [Laurent de La Hyre](https://en.wikipedia.org/wiki/Laurent_de_La_Hyre)
 
