@@ -42,7 +42,7 @@ Recomendamos você obter o pacote científico completo de Python (incluindo o Ju
 16. [Função Sigmoid](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/funcao_sigmoid.ipynb)
 17. [Função Tangente Hiperbólica](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/funcao_tanh.ipynb)
 18. [Função de Unidade Linear Retificada](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/funcao_relu.ipynb)
-19. [Função Exponencial](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/funcao_exponencial.ipynb)
+19. [Função Exponencial](https://github.com/the-akira/Python-Matematica/blob/master/jupyter_notebooks/funcao_exponencial.ipynb)
 20. [Espiral de Arquimedes](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/espiral_arquimedes.ipynb)
 21. [Triângulo de Sierpinski](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/triangulo_sierpinski.ipynb)
 22. [Conjunto de Mandelbrot](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/conjuntomandelbrot.ipynb)
