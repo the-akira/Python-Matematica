@@ -4,9 +4,9 @@
     <img alt="Python" title="Python-Matemática" src="https://i.imgur.com/kVQvGDi.png"> </br>
 </h1>
 
-A matemática (dos termos gregos μάθημα, transliterado máthēma, 'ciência', 'conhecimento' ou 'aprendizagem'; e μαθηματικός, transliterado mathēmatikós, 'inclinado a aprender') é a ciência do raciocínio lógico e abstrato, que estuda quantidades, medidas, espaços, estruturas, variações e estatísticas. Um trabalho matemático consiste em procurar por padrões, formular conjecturas e, por meio de deduções rigorosas a partir de axiomas e definições, estabelecer novos resultados. A matemática desenvolveu-se principalmente na Mesopotâmia, no Egito, na Grécia, na Índia e no Oriente Médio. A partir da Renascença, o desenvolvimento da matemática intensificou-se na Europa, quando novas descobertas científicas levaram a um crescimento acelerado que dura até os dias de hoje... [Leia mais](https://pt.wikipedia.org/wiki/Matem%C3%A1tica)
-
----------------------------------------
+<p align="justify">
+A matemática (dos termos gregos μάθημα, transliterado máthēma, 'ciência', 'conhecimento' ou 'aprendizagem'; e μαθηματικός, transliterado mathēmatikós, 'inclinado a aprender') é a ciência do raciocínio lógico e abstrato, que estuda quantidades, medidas, espaços, estruturas, variações e estatísticas. Um trabalho matemático consiste em procurar por padrões, formular conjecturas e, por meio de deduções rigorosas a partir de axiomas e definições, estabelecer novos resultados. A matemática desenvolveu-se principalmente na Mesopotâmia, no Egito, na Grécia, na Índia e no Oriente Médio. A partir da Renascença, o desenvolvimento da matemática intensificou-se na Europa, quando novas descobertas científicas levaram a um crescimento acelerado que dura até os dias de hoje... <a href="https://pt.wikipedia.org/wiki/Matem%C3%A1tica">Leia mais</a>
+</p>
 
 ## Projeto
 
@@ -19,8 +19,6 @@ A ideia do projeto é explorar aspectos fundamentais da matemática através de 
 - [Pandas](https://pandas.pydata.org/)
 
 Recomendamos você obter o pacote científico completo de Python (incluindo o Jupyter-Notebook), acesse: [anaconda](https://www.anaconda.com/distribution/) e divirta-se experimentando.
-
----------------------------------------
 
 ## Conteúdo
 
@@ -52,5 +50,3 @@ Recomendamos você obter o pacote científico completo de Python (incluindo o Ju
 26. [Símbolos da Matemática Explicados com Python](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/simbolos_matematica.ipynb)
 27. [Compreendendo Logaritmos com Python](https://nbviewer.jupyter.org/github/the-akira/Python-Matematica/blob/master/jupyter_notebooks/logaritmos.ipynb)
 28. [Referências](https://github.com/the-akira/Python-Matematica/blob/master/referencias.md)
-
----------------------------------------
