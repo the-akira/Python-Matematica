@@ -1,7 +1,7 @@
 <h1 align="center">Matemática (μάθημα) com Python</h1>
 
 <h1 align="center">
-    <img alt="Python" title="Python-Matemática" src="https://i.imgur.com/kVQvGDi.png"> </br>
+    <img alt="Python" title="Python-Matemática" src="https://raw.githubusercontent.com/the-akira/Python-Matematica/master/imagens/avatar.png"> </br>
 </h1>
 
 <p align="justify">
